@@ -1,7 +1,7 @@
 ### Hi there, I'm Yigit 👋
 
 ## I'm a Developer!
-- 🔭 I’m currently working on a [Fastsoft][website]!
+- 🔭 I’m currently working !
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
@@ -20,8 +20,7 @@
 
  
 <br />
- 
-[website]: https://www.google.com
+  
 [twitter]: https://twitter.com/ygtozbkk
 [youtube]: https://www.youtube.com/channel/UCsqU6_IItxfXA9go1oVmUFg?view_as=subscriber
 [instagram]: https://www.instagram.com/ygtozbkk/
