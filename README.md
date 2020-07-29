@@ -1,4 +1,4 @@
-### Hi there, I'm Yigit - aka [codeSTACKr][website] 👋
+### Hi there, I'm Yigit 👋
 
 ## I'm a Developer!
 - 🔭 I’m currently working on a [VS Code Course][website]!
