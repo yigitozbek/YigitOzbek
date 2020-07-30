@@ -1,4 +1,4 @@
-w### Hi there, I'm Yigit 👋
+### Hi there, I'm Yigit 👋
 
 ## I'm a Developer!
 - 🔭 I’m currently working !
