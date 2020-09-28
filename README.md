@@ -25,7 +25,7 @@
 
 <br />
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yigitozbek&show_icons=true&theme=radical)
 
 
 [website]: https://www.google.com.tr
