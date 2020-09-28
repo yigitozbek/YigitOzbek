@@ -24,8 +24,8 @@
 [<img align="left" alt="DotNet" width="26px" src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/dot-net.png" />][webdevplaylist]
 
 <hr>
-<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats"><img height="170px" align="center" src="https://github-readme-stats.vercel.app/api?username=sardonyx78&show_icons=true&theme=buefy&bg_color=fff0"></a>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sardonyx78&layout=compact&theme=buefy&bg_color=fff0"></a></p>
+<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats"><img height="170px" align="center" src="https://github-readme-stats.vercel.app/api?username=yigitozbek&show_icons=true&theme=buefy&bg_color=fff0"></a>
+<a href="https://github.com/yigitozbek/github-readme-stats"><img align="center" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sardonyx78&layout=compact&theme=buefy&bg_color=fff0"></a></p>
 
 
 [website]: https://www.google.com.tr
