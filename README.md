@@ -24,8 +24,8 @@
 [<img align="left" alt="DotNet" width="26px" src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/dot-net.png" />][webdevplaylist]
 
 
-<p>![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yigitozbek&show_icons=true&theme=radical)
-</p>
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yigitozbek&show_icons=true&theme=radical)
+
 
 [website]: https://www.google.com.tr
 [twitter]: https://twitter.com/ygtozbkk
