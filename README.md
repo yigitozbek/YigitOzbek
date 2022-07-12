@@ -1,44 +1,10 @@
-# Hello World
+### Hey 👋, I'm Yigit Ozbek
 
-### Hi there, I'm Yigit 👋
+[![](https://img.shields.io/badge/-@yigitozbek-%23181717?style=flat-square&logo=github)](https://github.com/yigitozbek)
+[![](https://img.shields.io/badge/-Yigit%Ozbek-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yigitozbek/)](https://www.linkedin.com/in/nick-chapsas/)
 
-## I'm a Developer!
-- I’m currently working !
-- I’m currently learning everything  
-- I’m looking to collaborate with other content creators
-- 2021 Goals: Contribute more to Open Source projects 
- 
-
-### Languages and Tools:
+In my spare time, I produce projects with my friends to take myself one step further. I'm coding the Framework when it's time for me to sleep 😄. You can access the framework from this [this link](https://www.github.com/yigitozbek/yella).
 
 
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
 
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][webdevplaylist]
-
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
-
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
-
-[<img align="left" alt="CSharp" width="26px" src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/csharp.png" />][webdevplaylist]
-
-[<img align="left" alt="DotNet" width="26px" src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/dot-net.png" />][webdevplaylist]
-
-<hr>
-<p align="center">
- <a >
-  <img height="170px" align="center" src="https://github-readme-stats.vercel.app/api?username=yigitozbek&show_icons=true&theme=buefy&bg_color=fff0">
- </a>
- </p>
-
-
-[website]: https://www.google.com.tr
-[twitter]: https://twitter.com/ygtozbkk
-[youtube]: https://www.youtube.com/channel/UCsqU6_IItxfXA9go1oVmUFg?view_as=subscriber
-[instagram]: https://instagram.com/ygtozbkk
-[linkedin]: https://linkedin.com/in/yigitozbek
-[webdevplaylist]: https://www.youtube.com/
-[jsplaylist]: https://www.youtube.com/
-[cssplaylist]: https://www.youtube.com/
-[reactplaylist]: https://www.youtube.com/
+![yigitozbek's github stats](https://github-readme-stats.vercel.app/api?username=yigitozbek&show_icons=true&theme=dracula)
