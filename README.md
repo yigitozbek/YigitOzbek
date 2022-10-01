@@ -8,3 +8,6 @@ In my spare time, I produce projects with my friends to take myself one step fur
 
 
 ![yigitozbek's github stats](https://github-readme-stats.vercel.app/api?username=yigitozbek&show_icons=true&theme=dracula)
+
+![snake gif](https://github.com/yigitozbek/yigitozbek/blob/output/github-contribution-grid-snake.gif)
+
