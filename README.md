@@ -5,9 +5,12 @@
 
 In my spare time, I produce projects with my friends to take myself one step further. I'm coding the Framework when it's time for me to sleep 😄. You can access the framework from this [this link](https://www.github.com/yigitozbek/yella).
 
+## 🔥 Streak Stats
 
+<p align="center">
+	<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=bambideveloper&theme=tokyonight_duo&hide_border=true" alt="bambideveloper" />
+</p>
 
-![yigitozbek's github stats](https://github-readme-stats.vercel.app/api?username=yigitozbek&show_icons=true&theme=dracula)
-
+## ⚡ Recent GitHub Activity
 ![snake gif](https://github.com/yigitozbek/yigitozbek/blob/output/github-contribution-grid-snake.gif)
 
